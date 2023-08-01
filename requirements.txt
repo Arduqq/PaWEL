@@ -1,0 +1,7 @@
+python_version >= "3.11"
+numpy>=1.21.0
+opencv-python>=4.5.3.56
+opencv-contrib-python >= 1.18.1
+matplotlib>=3.4.3
+scipy>=1.7.0
+tk>=0.1.0
